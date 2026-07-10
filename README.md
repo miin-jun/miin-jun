@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Minjun%20Kim&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20%7C%20AI%20Service%20Developer&descSize=20&descAlignY=58)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&reversal=false)
 
-# 👋 Hi there, I'm 김민준 (Minjun Kim)
+![intro](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=200&text=Hi%20there!%20I'm%20Minjun%20Kim&fontColor=ffffff&fontSize=45&fontAlignY=42&animation=fadeIn&stroke=E0E0E0&strokeWidth=1&desc=Backend%20Developer%20%7C%20AI%20Engineer&descSize=20&descAlignY=70)
 
-### Backend & AI Service Developer based in Korea
+# 👋 안녕하세요, 백엔드 개발자 / AI 엔지니어 김민준입니다
 
 `sLLM` · `RAG` · `AI Agent` 를 실제 서비스로 연결하는 백엔드 개발자입니다.
 
@@ -35,22 +35,22 @@
 
 ## 🚀 Project Experience
 
-### 📌 회의피하지마 (HPM) — AI 회의 자동화 플랫폼 *(Final)*
+### 📌 회의피하지마 (HPM) — AI 회의 자동화 플랫폼 
 > 회의 준비부터 회의록 생성, 태스크 추출, **Jira 연동**까지 하나의 흐름으로 연결하는 협업 서비스
 >
 > `Django` `FastAPI` `RAG` `STT/OCR` `RunPod vLLM` `Jira API` `AWS` `MySQL`
 
-### 🏎️ For every1 (F5) — F1 입문자용 RAG 챗봇 *(3차)*
+### 🏎️ For every1 (F5) — F1 입문자용 RAG 챗봇 
 > 어렵고 복잡한 F1 정보를 쉽게 안내하는 RAG 기반 챗봇. 데이터 전처리 · 파인튜닝 · 테스트케이스 설계 담당
 >
 > `LangChain` `ChromaDB` `Fine-Tuning` `Streamlit` `RAG`
 
-### 👗 Stitch — 패션 산업 고객 이탈 예측 모델 *(2차)*
+### 👗 Stitch — 패션 산업 고객 이탈 예측 모델 
 > 패션 브랜드 고객 데이터를 활용한 머신러닝 기반 이탈 예측 모델 개발
 >
 > `Python` `Pandas` `scikit-learn` `Machine Learning`
 
-### 🚗 ROKa-T — 도시 환경오염 시각화 서비스 *(1차)*
+### 🚗 ROKa-T — 도시 환경오염 시각화 서비스 
 > 서울시 자치구별 차량 등록·연료 데이터를 '온도'로 시각화한 데이터 분석 프로젝트
 >
 > `Python` `Crawling` `MySQL` `Streamlit`
