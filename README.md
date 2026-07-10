@@ -18,6 +18,7 @@
 -  단순 LLM 호출을 넘어 **문서 분석 · STT/OCR · RAG 검색 · 태스크 추출**을 하나의 서비스 흐름으로 연결하는 데 관심이 있습니다.
 -  요즘은 **Docker / 배포 자동화**를 학습하며 백엔드 인프라 역량을 키우고 있습니다.
 -  데이터 수집 → 모델링 → 서비스화까지의 **엔드투엔드 개발**을 좋아합니다.
+-  AI 엔지니어를 목표로 sLLM 파인튜닝·RAG 파이프라인 설계와 LLM 오픈소스 학습을 꾸준히 이어가고 있습니다
 
 ---
 
@@ -40,7 +41,7 @@
 >
 > `Django` `FastAPI` `RAG` `STT/OCR` `RunPod vLLM` `Jira API` `AWS` `MySQL`
 
-###  For every1 (F5) — F1 입문자용 RAG 챗봇 
+###  For every1  — F1 입문자용 RAG 챗봇 
 > 어렵고 복잡한 F1 정보를 쉽게 안내하는 RAG 기반 챗봇. 데이터 전처리 · 파인튜닝 · 테스트케이스 설계 담당
 >
 > `LangChain` `ChromaDB` `Fine-Tuning` `Streamlit` `RAG`
