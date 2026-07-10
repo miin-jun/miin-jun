@@ -1,6 +1,7 @@
 
 <div align="center">
-![header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&fontAlign=34&section=header&reversal=false](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&fontAlign=35&section=header&reversal=false))
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Minjun%20Kim&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20%7C%20AI%20Service%20Developer&descSize=20&descAlignY=58)
+
 
 # 👋 Hi there, I'm 김민준 (Minjun Kim)
 
