@@ -1,13 +1,12 @@
-
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Minjun%20Kim&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20%7C%20AI%20Service%20Developer&descSize=20&descAlignY=58)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Minjun%20Kim&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20%7C%20AI%20Service%20Developer&descSize=20&descAlignY=58)
 
 # 👋 Hi there, I'm 김민준 (Minjun Kim)
 
 ### Backend & AI Service Developer based in Korea
 
-`sLLM` · `RAG` · `AI Agent` 를 실제 서비스로 구현하고자 성장하고 있는 백엔드 개발자 / AI 엔지니어 입니다
+`sLLM` · `RAG` · `AI Agent` 를 실제 서비스로 연결하는 백엔드 개발자입니다.
 
 </div>
 
@@ -15,10 +14,10 @@
 
 ## 🧑‍💻 About Me
 
--  **SK네트웍스 Family AI 캠프 24기** 수료 — AI / ML / DL / LLM / RAG / 백엔드 기반 AI 서비스 개발
--  단순 LLM 호출을 넘어 **문서 분석 · STT/OCR · RAG 검색 · 태스크 추출**을 하나의 서비스 흐름으로 연결하는 데 관심을 가지고 있습니다.
--  요즘은 **Docker / 배포 자동화**를 학습하며 백엔드 인프라 역량을 키우고 있습니다.
--  데이터 수집 → 모델링 → 서비스화까지의 **엔드투엔드 개발**을 좋아합니다.
+- 🎓 **SK네트웍스 Family AI 캠프 24기** 수료 — AI / ML / DL / LLM / RAG / 백엔드 기반 AI 서비스 개발
+- 🔭 단순 LLM 호출을 넘어 **문서 분석 · STT/OCR · RAG 검색 · 태스크 추출**을 하나의 서비스 흐름으로 연결하는 데 관심이 있습니다.
+- 🌱 요즘은 **Docker / 배포 자동화**를 학습하며 백엔드 인프라 역량을 키우고 있습니다.
+- 💬 데이터 수집 → 모델링 → 서비스화까지의 **엔드투엔드 개발**을 좋아합니다.
 
 ---
 
@@ -36,22 +35,22 @@
 
 ## 🚀 Project Experience
 
-###  회의피하지마 (HPM) — AI 회의 자동화 플랫폼
+### 📌 회의피하지마 (HPM) — AI 회의 자동화 플랫폼 *(Final)*
 > 회의 준비부터 회의록 생성, 태스크 추출, **Jira 연동**까지 하나의 흐름으로 연결하는 협업 서비스
 >
 > `Django` `FastAPI` `RAG` `STT/OCR` `RunPod vLLM` `Jira API` `AWS` `MySQL`
 
-###  For every1 (F5) — F1 입문자용 RAG 챗봇
+### 🏎️ For every1 (F5) — F1 입문자용 RAG 챗봇 *(3차)*
 > 어렵고 복잡한 F1 정보를 쉽게 안내하는 RAG 기반 챗봇. 데이터 전처리 · 파인튜닝 · 테스트케이스 설계 담당
 >
 > `LangChain` `ChromaDB` `Fine-Tuning` `Streamlit` `RAG`
 
-###  Stitch — 패션 산업 고객 이탈 예측 모델
+### 👗 Stitch — 패션 산업 고객 이탈 예측 모델 *(2차)*
 > 패션 브랜드 고객 데이터를 활용한 머신러닝 기반 이탈 예측 모델 개발
 >
 > `Python` `Pandas` `scikit-learn` `Machine Learning`
 
-### 🚗 ROKa-T — 도시 환경오염 시각화 서비스 
+### 🚗 ROKa-T — 도시 환경오염 시각화 서비스 *(1차)*
 > 서울시 자치구별 차량 등록·연료 데이터를 '온도'로 시각화한 데이터 분석 프로젝트
 >
 > `Python` `Crawling` `MySQL` `Streamlit`
@@ -72,3 +71,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-miin--jun-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miin-jun)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&reversal=true)
