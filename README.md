@@ -4,7 +4,7 @@
 
 ![intro](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=200&text=Hi%20there!%20I'm%20Minjun%20Kim&fontColor=ffffff&fontSize=45&fontAlignY=42&animation=fadeIn&stroke=E0E0E0&strokeWidth=1&desc=Backend%20Developer%20%7C%20AI%20Engineer&descSize=20&descAlignY=70)
 
-# 👋 안녕하세요, 백엔드 개발자 / AI 엔지니어 김민준입니다
+# 👋 안녕하세요, 백엔드 개발자 / AI 엔지니어를 목표로 하고 있는 김민준입니다
 
 `sLLM` · `RAG` · `AI Agent` 를 실제 서비스로 연결하기 위해 성장하고 있는 개발자 / AI 엔지니어 입니다
 
