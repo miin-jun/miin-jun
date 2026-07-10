@@ -72,4 +72,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=150&section=footer&reversal=true&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=45&fontAlignY=70&stroke=E0E0E0&strokeWidth=2)
