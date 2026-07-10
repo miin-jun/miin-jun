@@ -1,5 +1,6 @@
-![header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&fontAlign=34&section=header&reversal=false](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&fontAlign=35&section=header&reversal=false))
+
 <div align="center">
+![header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&fontAlign=34&section=header&reversal=false](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&fontAlign=35&section=header&reversal=false))
 
 # 👋 Hi there, I'm 김민준 (Minjun Kim)
 
